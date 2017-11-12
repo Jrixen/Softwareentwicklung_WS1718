@@ -1,1 +1,1 @@
-Test für Pull/Remove/Status
+﻿Test für Pull/Remove/Status und für Diff.
